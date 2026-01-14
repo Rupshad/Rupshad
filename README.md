@@ -1,29 +1,15 @@
-<h1 align="center"> Hi!! I am Rupsha ✨ </h1>
-<h2 align="center">A budding Java developer</h2>
+# Hi, I'm Rupshad 👋
 
-- 🔭 I'm currently working on **A Java-based Academic Performance Analytics System using JDBC and MySQL.(Upgrading to SpringBoot soon)**
+> **Java Backend Developer | Data Structures & Algorithms**
 
+I am a computer science student building scalable systems with Java. Currently focusing on **DSA** and **System Design**.
 
+### 🔭 Current Project
+ A Java-based Academic Performance Analytics System using JDBC and MySQL. *(Upgrading to Spring Boot soon)*
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Java+Developer;DSA+Enthusiast;Building+Projects" alt="Typing SVG" /></a>
-</p>
-
----
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rupshad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Rupshad's Github Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupshad&theme=tokyonight&hide_border=true&background=00000000" alt="Rupshad's Streak" />
-</p>
-
-<h3 align="center">🛠 Tech Stack</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,git,vscode&theme=dark" />
-  </a>
-</p>
+### 🛠 Skills
+![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ff69b4?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff69b4?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rupshad&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Rupshad" />
-</p>
