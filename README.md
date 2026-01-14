@@ -1,32 +1,29 @@
-
-
-<!--
-**Rupshad/Rupshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi 👋, I'm Rupshad
-
-### A budding Java developer
+<h1 align="center"> Hi!! I am Rupsha ✨ </h1>
+<h2 align="center">A budding Java developer</h2>
 
 - 🔭 I'm currently working on **A Java-based Academic Performance Analytics System using JDBC and MySQL.(Upgrading to SpringBoot soon)**
 
-- 🌱 I'm currently learning **DSA **
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Rupshad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rupshad" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9B1D6&center=true&vCenter=true&width=435&lines=Java+Developer;DSA+Enthusiast;Building+Projects" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+---
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rupshad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Rupshad's Github Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rupshad&theme=tokyonight&hide_border=true&background=00000000" alt="Rupshad's Streak" />
+</p>
+
+<h3 align="center">🛠 Tech Stack</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,git,vscode&theme=dark" />
+  </a>
+</p>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rupshad&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge" alt="Rupshad" />
+</p>
