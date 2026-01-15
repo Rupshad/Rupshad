@@ -1,4 +1,4 @@
-# Hi, I'm Rupshad 👋
+# Hi, I'm Rupsha👋
 
 > **Java Backend Developer | Data Structures & Algorithms**
 
