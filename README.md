@@ -1,6 +1,6 @@
 # Hi, I'm Rupsha👋
 
-> **Java Backend Developer | Data Structures & Algorithms**
+> **A Budding Developer | Data Structures & Algorithms**
 
 I am a computer science student building scalable systems with Java. Currently focusing on **DSA** and **System Design**.
 
