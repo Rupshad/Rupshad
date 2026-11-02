@@ -5,7 +5,7 @@
 I am a computer science student building scalable systems with Java. Currently focusing on **DSA** and **System Design**.
 
 ### 🔭 Current Project
- A Java-based Academic Performance Analytics System using JDBC and MySQL. *(Upgrading to Spring Boot soon)*
+ A Java-based Airline Booking System using JDBC and MySQL. *(Upgrading to Spring Boot soon)*
 
 ### 🛠 Skills
 ![Java](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=white)
